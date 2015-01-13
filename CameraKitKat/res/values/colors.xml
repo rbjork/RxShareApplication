@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="levelsliderbackground">#90A27282</color>
+     <color name="readoutbackground">#ff336633</color>
+     <color name="cameraframe">#900397D5</color>
+     <color name="rxpanel">#fff0f0f0</color>
+     <color name="rxredlowsat">#ffB37282</color> <!-- 179,67,70 -->
+     <color name="rxbluelowsat">#FFAFDDF4</color> <!-- 175,221,244 -->
+     <color name="rxredlite">#FFEE2D24</color> <!-- 238,45,36 -->
+     <color name="rxred">#FFC8251C</color> <!-- 200,37,28 -->
+     <color name="rxblue">#FF0397D5</color> <!-- 3,151,213 -->
+</resources>

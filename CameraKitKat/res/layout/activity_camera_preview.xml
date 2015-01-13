@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+    <com.bjorkcomputing.camerakitkat.Preview android:id="@+id/preview"
+        android:layout_width="fill_parent" android:layout_height="fill_parent">
+    </com.bjorkcomputing.camerakitkat.Preview>
+
+    <com.bjorkcomputing.camerakitkat.TouchView android:id="@+id/left_top_view"
+        android:layout_width="fill_parent" android:layout_height="fill_parent">
+    </com.bjorkcomputing.camerakitkat.TouchView>
+
+    
+    <ImageView android:id="@+id/edgepicture" 
+        android:layout_width="fill_parent" 
+        android:layout_height="fill_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true" />
+    <FrameLayout 
+        android:id="@+id/fragment_container"
+    	android:layout_width="match_parent"
+    	android:layout_height="match_parent"/>
+
+
+</RelativeLayout>
